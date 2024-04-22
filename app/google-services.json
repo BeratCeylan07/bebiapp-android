@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "77155554012",
+    "project_id": "bebisocial-bebiapp",
+    "storage_bucket": "bebisocial-bebiapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77155554012:android:9b49fd4ad9b7f0f1a59a19",
+        "android_client_info": {
+          "package_name": "com.bebisocial.bebiapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8eQvO79vQE6SXu8-CTYmxuLjNkaWkwhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
